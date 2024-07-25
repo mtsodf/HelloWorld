@@ -15,3 +15,5 @@ string0 = "Alunos"
 string1 = "Infnet"
 
 print(string0 + " " + string1)
+
+# Ainda vamos ver outras funções de strings
